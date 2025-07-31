@@ -16,5 +16,5 @@ HTML5
 CSS3 (Basic styling)
 
 🚀 Live Preview
-You can view the live project here: [Add your live link here]
+You can view the live project here: []
 
